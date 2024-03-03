@@ -10,6 +10,7 @@ public class DepartmentController : Controller
 
     public IActionResult Index()
     {
+        //aaaaaa.
         return View();
     }
 }
